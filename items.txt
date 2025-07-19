@@ -1,0 +1,1 @@
+tobacco_station = { name = 'tobacco_station', label = 'tobacco_station', weight = 2, type = 'item', image = 'tobacco_station.png', unique = false, useable = true, shouldClose = true, description = 'tobacco_station' },
